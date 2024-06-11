@@ -17,8 +17,8 @@ Antes de começar, certifique-se de ter o Node.js instalado na versão 18.20.3.
 1. **Clone o repositório:**
 
     ```bash
-    git clone <URL_DO_REPOSITORIO>
-    cd <DIRETORIO_DO_REPOSITORIO>
+    git clone https://github.com/felpscouto/legacy-module-federation-test.git
+    cd legacy-module-federation-test
     ```
 
 2. **Instale as dependências para cada projeto:**
